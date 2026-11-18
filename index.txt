@@ -1,0 +1,1 @@
+buatkan Aplikasi Try Out TKA dengan warna yang menarik. Pada awal tampilkan nama siswa , Kelas , Peserta Didik, Asal Sekolah. Pada Soal tampilkan navigasi sebelumnya, ragu-ragu, selanjutnya. Ada Timer. Ada navigasi nomor yang berbeda warna jika soal sudah di jawab, ragu-ragu dan belum di jawab. Di akhir tampilkan nilai akhir , nama, kelas, asal sekolah , dan pembahasan soalnya.
